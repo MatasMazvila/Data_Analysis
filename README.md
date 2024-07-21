@@ -1,2 +1,2 @@
 # Coursework
-This is a repository where codes from my university coursework are kept
+The repository contains codes from my university coursework. It includes R and MATLAB code scripts from various subjects.
